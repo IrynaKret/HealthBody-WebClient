@@ -1,0 +1,148 @@
+<!DOCTYPE xml>
+<Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+	<Body>
+		<getAllCompetitionsResponse
+			xmlns:ns2="http://webservice.healthbody.softserveinc.edu/">
+			<return>
+				<count>2</count>
+				<description>Description of competition 2</description>
+				<finishDate>2016-07-26</finishDate>
+				<name>Name competition 2</name>
+				<startDate>2016-07-12</startDate>
+			</return>
+			<return>
+				<count>2</count>
+				<description>Description of competition 15</description>
+				<finishDate>2016-07-28</finishDate>
+				<name>Name competition 15</name>
+				<startDate>2016-07-09</startDate>
+			</return>
+			<return>
+				<count>5</count>
+				<description>Description of competition 7</description>
+				<finishDate>2016-07-23</finishDate>
+				<name>Name competition 7</name>
+				<startDate>2016-07-13</startDate>
+			</return>
+			<return>
+				<count>0</count>
+				<description>Description of competition 16</description>
+				<finishDate>2016-07-30</finishDate>
+				<name>Name competition 16</name>
+				<startDate>2016-07-17</startDate>
+			</return>
+			<return>
+				<count>1</count>
+				<description>Description of competition 1</description>
+				<finishDate>2016-07-20</finishDate>
+				<name>Name competition 1</name>
+				<startDate>2016-07-09</startDate>
+			</return>
+			<return>
+				<count>2</count>
+				<description>Description of competition 13</description>
+				<finishDate>2016-07-15</finishDate>
+				<name>Name competition 13</name>
+				<startDate>2016-07-12</startDate>
+			</return>
+			<return>
+				<count>3</count>
+				<description>Description of competition 11</description>
+				<finishDate>2016-07-23</finishDate>
+				<name>Name competition 11</name>
+				<startDate>2016-07-15</startDate>
+			</return>
+			<return>
+				<count>1</count>
+				<description>Description of competition 5</description>
+				<finishDate>2016-07-30</finishDate>
+				<name>Name competition 5</name>
+				<startDate>2016-07-15</startDate>
+			</return>
+			<return>
+				<count>3</count>
+				<description>Description of competition 17</description>
+				<finishDate>2016-07-17</finishDate>
+				<name>Name competition 17</name>
+				<startDate>2016-07-13</startDate>
+			</return>
+			<return>
+				<count>1</count>
+				<description>Description of competition 20</description>
+				<finishDate>2016-07-13</finishDate>
+				<name>Name competition 20</name>
+				<startDate>2016-07-13</startDate>
+			</return>
+			<return>
+				<count>2</count>
+				<description>Description of competition 3</description>
+				<finishDate>2016-07-08</finishDate>
+				<name>Name competition 3</name>
+				<startDate>2016-07-08</startDate>
+			</return>
+			<return>
+				<count>3</count>
+				<description>Description of competition 19</description>
+				<finishDate>2016-08-04</finishDate>
+				<name>Name competition 19</name>
+				<startDate>2016-07-17</startDate>
+			</return>
+			<return>
+				<count>3</count>
+				<description>Description of competition 8</description>
+				<finishDate>2016-07-13</finishDate>
+				<name>Name competition 8</name>
+				<startDate>2016-07-11</startDate>
+			</return>
+			<return>
+				<count>2</count>
+				<description>Description of competition 9</description>
+				<finishDate>2016-07-18</finishDate>
+				<name>Name competition 9</name>
+				<startDate>2016-07-13</startDate>
+			</return>
+			<return>
+				<count>5</count>
+				<description>Description of competition 10</description>
+				<finishDate>2016-07-14</finishDate>
+				<name>Name competition 10</name>
+				<startDate>2016-07-11</startDate>
+			</return>
+			<return>
+				<count>3</count>
+				<description>Description of competition 6</description>
+				<finishDate>2016-07-28</finishDate>
+				<name>Name competition 6</name>
+				<startDate>2016-07-13</startDate>
+			</return>
+			<return>
+				<count>3</count>
+				<description>Description of competition 4</description>
+				<finishDate>2016-07-29</finishDate>
+				<name>Name competition 4</name>
+				<startDate>2016-07-13</startDate>
+			</return>
+			<return>
+				<count>7</count>
+				<description>Description of competition 14</description>
+				<finishDate>2016-07-26</finishDate>
+				<name>Name competition 14</name>
+				<startDate>2016-07-13</startDate>
+			</return>
+			<return>
+				<count>2</count>
+				<description>Description of competition 18</description>
+				<finishDate>2016-07-18</finishDate>
+				<name>Name competition 18</name>
+				<startDate>2016-07-12</startDate>
+			</return>
+			<return>
+				<count>0</count>
+				<description>Description of competition 12</description>
+				<finishDate>2016-07-18</finishDate>
+				<name>Name competition 12</name>
+				<startDate>2016-07-13</startDate>
+			</return>
+		</getAllCompetitionsResponse>
+	</Body>
+</Envelope>
